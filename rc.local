@@ -1,0 +1,7 @@
+#!/bin/sh -e
+#echo "this is a test " > /home/amee/test/locarc.txt
+sleep 5s
+python3 /home/amee/test/newfile.py
+python3 /home/amee/autorun/autoTouchPad.py
+
+exit 0
